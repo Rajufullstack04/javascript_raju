@@ -77,6 +77,37 @@ console.log(FmailyDitails.kids.firstkidditailes["w/o Venkatesh"]);
 
 // array of object
 
+let Roommetesditailes = [
+    {
+        Roommte1 : "uday Reddy",
+        reantSharing : "4000" 
+    },
+    {
+         Roommte2 : "Gurunath Reddy",
+        reantSharing : "2500" 
+
+    },
+    {
+         Roommte3 : "Shiva Reddy",
+        reantSharing : "2500" 
+    },
+    {
+         Roommte4 : "Raju",
+        reantSharing : "1500" 
+    }
+];
+
+console.log(Roommetesditailes[0].Roommte1);
+console.log(Roommetesditailes[0].reantSharing);
+console.log(Roommetesditailes[1].Roommte2);
+console.log(Roommetesditailes[1].reantSharing);
+console.log(Roommetesditailes[2].Roommte3);
+console.log(Roommetesditailes[2].reantSharing);
+console.log(Roommetesditailes[3].Roommte4);
+console.log(Roommetesditailes[3].reantSharing);
+
+
+
 
 
 
