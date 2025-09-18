@@ -21,4 +21,4 @@ console.log(Mobailnumber);
 
 
 }
-myditailes("RAJU","1999.10.04","970xx75x20");
+("RAJU","1999.10.04","970xx75x20");
