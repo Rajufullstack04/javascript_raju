@@ -3,10 +3,11 @@
 // the way how compiler executes the our code. we can understand the way by using Debuging.
 let myname = "Raju";
 console.log(myname);
+myditailes();
 
 
 
-//debugger;//we can monitor the data of 1 and 2
+debugger;//we can monitor the data of 1 and 2
 let age = 25;
 console.log(age);
 
@@ -18,11 +19,14 @@ console.log(addres);
 //debugger;
 let educationdetails = "Degree,Bsc computer science";
 console.log(educationdetails);
+//debugger;
 
 
-
-
-
+function myditailes() {
+    let myname = "Raju";
+    console.log("my name is :"myname);
+    console.log(myname);
+}
 
 
 
