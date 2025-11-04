@@ -17,14 +17,14 @@ let addres = "Kadiri";
 console.log(addres);
 
 //debugger;
-let educationdetails = "Degree,Bsc computer science";
-console.log(educationdetails);
+let Qulification = "Degree,Bsc computer science";
+console.log(Qulification);
 //debugger;
 
 
 function myditailes() {
     let myname = "Raju";
-    console.log("my name is :"myname);
+    console.log("my name is :");
     console.log(myname);
 }
 
